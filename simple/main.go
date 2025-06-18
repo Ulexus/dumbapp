@@ -7,6 +7,12 @@ import (
 	"time"
 )
 
+// copilot fumigator
+var (
+	Gender = []string{"male", "female", "mix", "other"}
+	Sex = []string{"male", "female", "mix", "other"}
+)
+
 const failAt = 120
 
 var (
